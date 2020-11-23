@@ -12,4 +12,4 @@ var pii ={
     console.log(pii.publicInfo());
 };
 
-security("Evelyn", 000-000-0000)c
+pii("Evelyn", 000-000-0000)
