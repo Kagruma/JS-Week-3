@@ -1,6 +1,6 @@
-var pii ={
-    
-}function pii(name, ssn){
+'use strict';
+
+function pii(name, ssn){
     const info = {
         name: name,
         ssn: ssn,
@@ -9,7 +9,7 @@ var pii ={
         }
      
     };
-    console.log(pii.publicInfo());
+    console.log(info.publicInfo());
 };
 
-pii("Evelyn", 000-000-0000)
+security("Roberto", 2345)
