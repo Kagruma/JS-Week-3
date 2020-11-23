@@ -9,7 +9,7 @@ function pii(name, ssn){
         }
      
     };
-    console.log(info.publicInfo());
+    console.log(pii.publicInfo());
 };
 
-security("Roberto", 2345)
+security("Evelyn", 000-000-0000)
