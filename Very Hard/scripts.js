@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 'use strict';
 
 function countcoins(t, o) {
@@ -20,3 +21,5 @@ function countcoins(t, o) {
  
     return t[targetsLength - 1];
 }
+=======
+>>>>>>> parent of 79785b0... finished all challenges
